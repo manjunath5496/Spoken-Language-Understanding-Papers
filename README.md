@@ -4,83 +4,66 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(1).pdf" style="text-decoration:none;">The Fourth Dialog State Tracking Challenge</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(2).pdf" style="text-decoration:none;">A Joint Model of Intent Determination and Slot Filling for Spoken Language Understanding</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(3).pdf" style="text-decoration:none;">Dialogue State Induction Using Neural Latent Variable Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(4).pdf" style="text-decoration:none;">Labeled Data Generation with Encoder-decoder LSTM for Semantic Slot Filling</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(5).pdf" style="text-decoration:none;">Recurrent Neural Networks with External Memory for Language Understanding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(6).pdf" style="text-decoration:none;">Joint Learning of Domain Classification and Out-of-Domain Detection with Dynamic Class Weighting for Satisficing False Acceptance Rates</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(7).pdf" style="text-decoration:none;">Domain Adaptation of Recurrent Neural Networks for Natural Language Understanding</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(8).pdf" style="text-decoration:none;"> Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(9).pdf" style="text-decoration:none;">Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(10).pdf" style="text-decoration:none;">End-to-End Joint Learning of Natural Language Understanding and Dialogue Manager </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(11).pdf" style="text-decoration:none;">Neural Models for Sequence Chunking</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(12).pdf" style="text-decoration:none;">Sequential Dialogue Context Modeling for Spoken Language Understanding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(13).pdf" style="text-decoration:none;">Towards Zero-Shot Frame Semantic Parsing for Domain Scaling</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(14).pdf" style="text-decoration:none;">Dynamic Time-Aware Attention to Speaker Roles and Contexts for Spoken Language Understanding</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(15).pdf" style="text-decoration:none;">Speaker-Sensitive Dual Memory Networks for Multi-Turn Slot Tagging</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(16).pdf" style="text-decoration:none;">Deep contextualized word representations</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(17).pdf" style="text-decoration:none;">Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(18).pdf" style="text-decoration:none;">Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(19).pdf" style="text-decoration:none;">Multi-Layer Ensembling Techniques for Multilingual Intent Classification</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(20).pdf" style="text-decoration:none;">An Efficient Approach to Encoding Context for Spoken Language Understanding</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(21).pdf" style="text-decoration:none;">Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(22).pdf" style="text-decoration:none;">Zero-Shot Adaptive Transfer for Conversational Language Understanding</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(23).pdf" style="text-decoration:none;">Zero-shot User Intent Detection via Capsule Neural Networks</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(24).pdf" style="text-decoration:none;">Dynamically Context-Sensitive Time-Decay Attention for Dialogue Modeling</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(25).pdf" style="text-decoration:none;">Data Augmentation for Spoken Language Understanding via Joint Variational Generation</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(26).pdf" style="text-decoration:none;">Subword Semantic Hashing for Intent Classification on Small Datasets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(27).pdf" style="text-decoration:none;">Cross-Lingual Transfer Learning for Multilingual Task Oriented Dialog</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(28).pdf" style="text-decoration:none;">Unsupervised Transfer Learning for Spoken Language Understanding in Intelligent Agents</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(29).pdf" style="text-decoration:none;">Joint Slot Filling and Intent Detection via Capsule Neural Networks </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(30).pdf" style="text-decoration:none;">A Bi-model based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(31).pdf" style="text-decoration:none;">BERT for Joint Intent Classification and Slot Filling</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(32).pdf" style="text-decoration:none;">Benchmarking Natural Language Understanding Services for building Conversational Agents</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(33).pdf" style="text-decoration:none;">A Hierarchical Decoding Model for Spoken Language Understanding from Unaligned Data</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(34).pdf" style="text-decoration:none;">Deep Unknown Intent Detection with Margin Loss</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(35).pdf" style="text-decoration:none;">Robust Zero-Shot Cross-Domain Slot Filling with Example Values</a></li> 
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Spoken-Language-Understanding-Papers/blob/master/s(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
 Networks</a></li> 
